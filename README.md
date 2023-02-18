@@ -1,10 +1,10 @@
 # Recursion
 
-Let us say you have little money and you want to buy food and then you want to know the food combination on the menu your money can buy, for this app you simply provide your money in the search box and it will returns all combinations of the available food your money can buy
+Let's say that you have little money and you want combinations of food on the menu your money can accomodate.For this app you will simply provide your litle money in the search box and it will return all the combinations of the available food that fit you money.
 
 
 ## Issues
-This app is using recursion which means it needs optimazation by simply applying dynamic programming
+ it needs optimazation by simply applying dynamic programming since we are using recurssion.
 
 ### `npm start`
 
